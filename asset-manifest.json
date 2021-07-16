@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutorial-create-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tutorial-create-react-app/static/js/main.33511be7.chunk.js",
+    "main.js.map": "/tutorial-create-react-app/static/js/main.33511be7.chunk.js.map",
+    "runtime-main.js": "/tutorial-create-react-app/static/js/runtime-main.14eb6447.js",
+    "runtime-main.js.map": "/tutorial-create-react-app/static/js/runtime-main.14eb6447.js.map",
+    "static/js/2.d231ac82.chunk.js": "/tutorial-create-react-app/static/js/2.d231ac82.chunk.js",
+    "static/js/2.d231ac82.chunk.js.map": "/tutorial-create-react-app/static/js/2.d231ac82.chunk.js.map",
+    "static/js/3.b5fb16e8.chunk.js": "/tutorial-create-react-app/static/js/3.b5fb16e8.chunk.js",
+    "static/js/3.b5fb16e8.chunk.js.map": "/tutorial-create-react-app/static/js/3.b5fb16e8.chunk.js.map",
+    "index.html": "/tutorial-create-react-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tutorial-create-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d231ac82.chunk.js.LICENSE.txt": "/tutorial-create-react-app/static/js/2.d231ac82.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tutorial-create-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14eb6447.js",
+    "static/js/2.d231ac82.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.33511be7.chunk.js"
+  ]
+}
